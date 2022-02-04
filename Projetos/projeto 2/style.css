@@ -1,0 +1,182 @@
+*{
+    padding-left:2%;
+    padding-right: 3%;
+    padding-top: 2%;
+    padding-bottom: 2%; }
+
+.superior_completa{
+    background-color: rgb(247, 247, 247) ;
+   
+}
+
+.logo {
+    width: 160px;
+    height:120px;
+    display: inline-block;
+    padding-left: 50px;
+    margin-right: 20px;
+    left: 750px;
+    
+}
+
+
+.partNav:hover{
+    color: black;
+}
+
+.partNav:link{
+    color: rgb(126, 126, 126);
+}
+
+.partNav{
+    background-color: rgb(97, 96, 96);
+    float: none;
+    border: solid;
+    text-decoration: none;
+    display: block;
+    color: black;
+    
+}
+
+.partNav{
+    background-color: black;
+}
+.bordas{
+    border-color:rgb(247, 247, 247);
+}
+
+.tudo{
+    background-color: rgb(119, 118, 118) ;
+    color: white;
+}
+
+.central{
+    text-align: center;
+}
+
+.justificado{
+    text-align: justify;
+    font-size: 20px;
+    
+}
+
+.carrousel {
+    width: 100%;
+    max-width: 1100px;
+    
+}
+
+
+.serviçosImg1{
+    width: 600px;
+    display: inline-block;
+    right: 20px;
+    left: 30px ;
+    position: relative;
+}
+
+.serviçosImg{
+    width: 500px;
+    display: inline-block;
+    left: 350px;
+    position: relative;
+}
+
+.mídias{
+    display: inline-block;
+    left: 96px;
+    top:-10px;
+    
+    
+    
+}
+
+.tabela{
+    position: relative;
+    display: inline-block;
+    left: 1000px;
+}
+
+
+.links{
+    color: black;
+    font-size: 20px;
+    top: 10px;
+    position:static;
+}
+
+
+/* add outline que tira as bordas que o navegador coloca*/
+
+.carousel-inner{
+    left: 25px;
+}
+
+.img-card{
+    left: 40px;
+    display:inline-block;
+    margin-left: 55%;
+    
+    
+   
+}
+
+
+#contatos{
+    display: inline-block;
+    margin-left: 350px;
+    padding-top: 0px;
+    background-color: rgb(119, 118, 118);
+    color: white;
+    width: 70%;
+    left: 20px;
+}
+
+
+.card2{
+    float: right;
+    right: 1000px;
+}
+
+.contatos_f p{
+    font-size: 20px;
+}
+
+.contatos_f h2 {
+    text-align: center;
+}
+
+
+.telefone{
+    display: inline;
+    margin-left: 30px;
+}
+
+#zap{
+    position: relative;
+    left: 125px;
+}
+.email{
+    display: inline;
+    float: right;
+    margin-top: -15px;
+}
+
+
+.fotoágua{
+    margin-left: 38% ;
+}
+
+
+.cp{
+    margin-top: 100px;
+    text-align: center;
+    
+}
+
+footer{
+    background-color:rgb(119, 118, 118); 
+    
+}
+
+
