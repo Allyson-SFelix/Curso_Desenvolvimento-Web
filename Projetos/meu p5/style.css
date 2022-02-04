@@ -1,0 +1,108 @@
+a:hover{
+    text-decoration: none;
+    font-family:'Arial';
+}
+
+.foto_perfil{
+    border-radius: 10px;
+    text-align: center;
+    padding-left: 70px;
+    
+}
+
+.assi h2  {
+    text-align: center;
+}
+
+.assi{
+    margin:1px;
+    background-color: rgb(186, 221, 252);
+    float: left;
+    height: 940px;
+}
+
+.links_mid{
+    text-align: center;
+}
+
+
+.cont:checked ~ .text_1 {
+    display: block;
+    color: black;
+    background-color: rgba(176, 248, 248, 0.637);
+    position: fixed;
+    width: 79%;
+    height: 940px;
+    margin-top: -17px;
+}
+
+
+.text_1{
+    display: none;
+    height: 320px;
+    width: 70vw;
+    position: fixed; 
+    right: 0;
+    top: 20px;
+    color: black;
+    font-size: 14pt;
+   
+
+}
+
+label {    
+    background-color: rgba(0, 60, 255, 0.473);
+    color: white;
+    font-size: 20px;
+    display: block;
+    padding: 5px;
+     list-style: none;
+    font-weight: bold;
+    left: 100px;
+    
+}
+
+label:hover {
+    cursor: pointer;
+  
+    color: rgb(13, 114, 128);
+
+}
+
+.cont{
+    list-style: none;
+    text-decoration: none;
+}
+
+.center{
+    text-align: center;
+}
+
+
+
+.card{
+    float:right;
+    right:100px;
+    margin: 1%;
+    margin-top: 10%;
+    flex-direction:row 
+}
+
+ul{
+    list-style: none;
+    text-decoration: none;
+}
+ 
+#projetos{
+    margin-top: 4%;
+}
+
+#curri{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+#sobre{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
