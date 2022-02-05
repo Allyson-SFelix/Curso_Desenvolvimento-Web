@@ -22,7 +22,7 @@ botao.addEventListener("click", () => {
                     var calculo = String(i) + " + " + dados.value + " = " + (Number(i) + Number(dados.value));
                     break;
                 case "divis":
-                    var calculo = divisor + " / " + dados.value + " = " + (Number(divisor) / dados.value);
+                    var calculo =  cv + " / " + dados.value + " = " + (Number(cv) / dados.value);
                     cv = (Number(cv) + Number(dados.value));
                     break;
                 case "mult":
