@@ -8,7 +8,7 @@ const diretor = document.querySelector("#diretor");
 const foto_filme = document.querySelector(".quando_nao_tem");
 const descricao = document.querySelector("#descricao");
 
-const apiKey = "d1f60e3a";
+const apiKey = "c2d81518";
 const QNT = "qjnt.JPG";
 
 async function busca(nome) {
