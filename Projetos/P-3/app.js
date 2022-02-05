@@ -21,14 +21,14 @@ botao.addEventListener("click", () => {
                 case "soma":
                     var calculo = String(i) + " + " + dados.value + " = " + (Number(i) + Number(dados.value));
                     break;
-                case "divisao":
+                case "divis":
                     var calculo = divisor + " / " + dados.value + " = " + (Number(divisor) / dados.value);
                     cv = (Number(cv) + Number(dados.value));
                     break;
-                case "multiplicacao":
+                case "mult":
                     var calculo = String(i) + " x " + dados.value + " = " + i * Number(dados.value);
                     break;
-                case "subtracao":
+                case "subt":
                     var calculo = String(i) + " - " + dados.value + " = " + (Number(i) - Number(dados.value));
                     break;
             }
